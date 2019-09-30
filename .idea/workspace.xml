@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="23abc9b5-7686-4477-9499-4ca0a4e32a7b" name="Default Changelist" comment="" />
+    <list default="true" id="23abc9b5-7686-4477-9499-4ca0a4e32a7b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,7 +20,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/Shop_Tax.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="98">
+            <state relative-caret-position="-427">
               <caret line="97" column="155" selection-start-line="97" selection-start-column="155" selection-end-line="97" selection-end-column="155" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -43,6 +45,9 @@
       <find>list</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -57,6 +62,7 @@
     <option name="width" value="1346" />
     <option name="height" value="688" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -96,6 +102,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -154,9 +161,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Shop_Tax_countTotal - 2019.09.30 at 12h 31m 25s.xml">
-      <configuration name="Shop_Tax.countTotal" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="Shop_Tax_countTotal - 2019.09.30 at 12h 33m 52s.xml">
       <configuration name="Shop_Tax.countTotal" configurationId="JUnit" />
     </history-entry>
@@ -184,10 +188,12 @@
     <history-entry file="Shop_Tax_countTotal - 2019.09.30 at 13h 21m 51s.xml">
       <configuration name="Shop_Tax.countTotal" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="Shop_Tax_countTotal - 2019.09.30 at 13h 30m 04s.xml">
+      <configuration name="Shop_Tax.countTotal" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.022692889" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -198,7 +204,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49924356" visible="true" weight="0.3747954" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" weight="0.3747954" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49924356" weight="0.39934534" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -331,7 +337,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/Shop_Tax.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="98">
+        <state relative-caret-position="-427">
           <caret line="97" column="155" selection-start-line="97" selection-start-column="155" selection-end-line="97" selection-end-column="155" />
           <folding>
             <element signature="imports" expanded="true" />
