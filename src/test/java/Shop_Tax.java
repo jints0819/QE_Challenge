@@ -27,7 +27,6 @@ public class Shop_Tax {
 
     Select drpState;
     Map<String,Double> stateTaxMap;
-    int states;
 
     List<WebElement> list;
     List<String> stateList = new ArrayList<>();
@@ -35,6 +34,7 @@ public class Shop_Tax {
 
     @Before
     public void init() {
+        //Store state and tax info
         stateTaxMap = new HashMap<>();
         stateTaxMap.put( "CA", 0.08 );
         stateTaxMap.put( "NY", 0.06 );
@@ -47,10 +47,10 @@ public class Shop_Tax {
         //select dropdown list
         this.drpState = new Select(driver.findElement(By.name("state")));
         this.list=drpState.getOptions();
+        // remove 1st empty element in the dropdown list
         list.remove(drpState.getFirstSelectedOption());
-        this.states = this.list.size();
 
-        // get the values of state list
+        // get the values from dropdown list and add to state list
         for ( int i = 0; i < this.list.size(); i++) {
             this.stateList.add( this.list.get(i).getAttribute("value") );
         }

@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="23abc9b5-7686-4477-9499-4ca0a4e32a7b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Shop_Tax.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Shop_Tax.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -20,8 +20,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/Shop_Tax.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-427">
-              <caret line="97" column="155" selection-start-line="97" selection-start-column="155" selection-end-line="97" selection-end-column="155" />
+            <state relative-caret-position="1034">
+              <caret line="47" column="21" lean-forward="true" selection-start-line="47" selection-start-column="21" selection-end-line="47" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -43,6 +43,8 @@
       <find>errors</find>
       <find>stateList</find>
       <find>list</find>
+      <find>this.states</find>
+      <find>Map</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -70,35 +72,7 @@
     <panes>
       <pane id="Scope" />
       <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="shop_tax_test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shop_tax_test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shop_tax_test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shop_tax_test" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shop_tax_test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shop_tax_test" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shop_tax_test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shop_tax_test" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -161,27 +135,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Shop_Tax_countTotal - 2019.09.30 at 12h 33m 52s.xml">
-      <configuration name="Shop_Tax.countTotal" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Shop_Tax_countTotal - 2019.09.30 at 12h 35m 47s.xml">
-      <configuration name="Shop_Tax.countTotal" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Shop_Tax_countTotal - 2019.09.30 at 12h 57m 55s.xml">
-      <configuration name="Shop_Tax.countTotal" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Shop_Tax_countTotal - 2019.09.30 at 13h 01m 31s.xml">
-      <configuration name="Shop_Tax.countTotal" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Shop_Tax_countTotal - 2019.09.30 at 13h 05m 24s.xml">
-      <configuration name="Shop_Tax.countTotal" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Shop_Tax_countTotal - 2019.09.30 at 13h 08m 01s.xml">
-      <configuration name="Shop_Tax.countTotal" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Shop_Tax_countTotal - 2019.09.30 at 13h 10m 29s.xml">
-      <configuration name="Shop_Tax.countTotal" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="Shop_Tax_countTotal - 2019.09.30 at 13h 12m 18s.xml">
       <configuration name="Shop_Tax.countTotal" configurationId="JUnit" />
     </history-entry>
@@ -191,11 +144,32 @@
     <history-entry file="Shop_Tax_countTotal - 2019.09.30 at 13h 30m 04s.xml">
       <configuration name="Shop_Tax.countTotal" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="Shop_Tax_countTotal - 2019.10.01 at 10h 51m 53s.xml">
+      <configuration name="Shop_Tax.countTotal" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Shop_Tax_countTotal - 2019.10.01 at 10h 55m 39s.xml">
+      <configuration name="Shop_Tax.countTotal" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Shop_Tax_countTotal - 2019.10.01 at 10h 57m 07s.xml">
+      <configuration name="Shop_Tax.countTotal" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Shop_Tax_countTotal - 2019.10.01 at 10h 57m 49s.xml">
+      <configuration name="Shop_Tax.countTotal" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Shop_Tax_countTotal - 2019.10.01 at 11h 00m 29s.xml">
+      <configuration name="Shop_Tax.countTotal" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Shop_Tax_countTotal - 2019.10.01 at 11h 13m 59s.xml">
+      <configuration name="Shop_Tax.countTotal" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Shop_Tax_countTotal - 2019.10.01 at 11h 17m 25s.xml">
+      <configuration name="Shop_Tax.countTotal" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.022692889" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1762481" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -203,8 +177,8 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" weight="0.3747954" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" weight="0.2405892" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49924356" weight="0.39934534" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -337,8 +311,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/Shop_Tax.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-427">
-          <caret line="97" column="155" selection-start-line="97" selection-start-column="155" selection-end-line="97" selection-end-column="155" />
+        <state relative-caret-position="1034">
+          <caret line="47" column="21" lean-forward="true" selection-start-line="47" selection-start-column="21" selection-end-line="47" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
